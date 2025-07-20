@@ -7,7 +7,7 @@ let imageinput = document.querySelector("#image input");
 
 
 
-const Api_Url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyBEVBPPNOs-yKLRwqZK_fkMDAdzAZbr_2A" 
+const Api_Url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key="    // You should use use yours private keys here 
 
 let user={
     message:null,
